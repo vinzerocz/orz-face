@@ -4,7 +4,9 @@
 
 ## face图标包
 
-图片地址：https://raw.githubusercontent.com/Orz-3/face/master/name.png
+图片地址：https://raw.githubusercontent.com/ vinzerocz /
+orz-face
+/master/name.png
 
 请将上方地址中的name替换成图标的实际文件名
 
